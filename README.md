@@ -37,6 +37,10 @@ Use specific keywords to chat with Bing AI more effectively.
 `quiz`: define a quiz.
 > What is the capital of France? ;quiz
 
+## O
+`outline`: generate an outline for a specific content.
+> I want to write an outline for this: text or url #outline
+
 ## S
 
 `similar_to`: find similar things.
