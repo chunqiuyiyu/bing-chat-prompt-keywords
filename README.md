@@ -41,6 +41,10 @@ Use specific keywords to chat with Bing AI more effectively.
 `outline`: generate an outline for a specific content.
 > I want to write an outline for this: text or url #outline
 
+## P
+`photograph`: describe a beautiful photograph of image. can be used with `draw` keyword to get better image results.
+> dog ;photograph
+
 ## S
 
 `similar_to`: find similar things.
