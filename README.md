@@ -22,6 +22,14 @@ Use specific keywords to chat with Bing AI more effectively.
 `draw`: draw a picture.
 > fox ;draw;line-art
 
+## H
+
+`hi` or `hello`: say hi to the bot.
+> hello ;hi
+
+`how_to`: get instructions for a specific task.
+> how to make a cake ;how_to
+
 ## L
 
 `let's_play`: let us play a game.
@@ -30,16 +38,16 @@ Use specific keywords to chat with Bing AI more effectively.
 ## N
 
 `no_search`: don't search for the query.
-> I don't want to search for this #no_search
+> I don't want to search for this ;no_search
 
 ## Q
 
 `quiz`: define a quiz.
-> What is the capital of France? ;quiz
+> What is the capital of France ;quiz
 
 ## O
 `outline`: generate an outline for a specific content.
-> I want to write an outline for this: text or url #outline
+> I want to write an outline for this: text or url ;outline
 
 ## P
 `photograph`: describe a beautiful photograph of image. can be used with `draw` keyword to get better image results.
@@ -53,7 +61,7 @@ Use specific keywords to chat with Bing AI more effectively.
 ## T
 
 `translate`: translate a word or a sentence.
-> hello world ;translate;french
+> hello world ;translate;French
 
 ## V
 
