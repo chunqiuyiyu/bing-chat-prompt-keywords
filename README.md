@@ -63,6 +63,11 @@ Use specific keywords to chat with Bing AI more effectively.
 `translate`: translate a word or a sentence.
 > hello world ;translate;French
 
+`topic`: define a topic.
+> I want to talk about this: text or url ;topic
+
+> with environment protection as the topic ;topic
+
 ## V
 
 `vs`: compare two things.
