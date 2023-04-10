@@ -22,6 +22,11 @@ Use specific keywords to chat with Bing AI more effectively.
 `draw`: draw a picture.
 > fox ;draw;line-art
 
+## F
+
+`force_search`: force search for the query.
+> I want to search for this ;force_search
+
 ## H
 
 `hi` or `hello`: say hi to the bot.
