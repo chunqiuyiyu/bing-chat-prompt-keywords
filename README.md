@@ -22,6 +22,11 @@ Use specific keywords to chat with Bing AI more effectively.
 `draw`: draw a picture.
 > fox ;draw;line-art
 
+## E
+
+`emoji`: generate output in emoji format.
+> dog ;emoji
+
 ## F
 
 `force_search`: force search for the query.
