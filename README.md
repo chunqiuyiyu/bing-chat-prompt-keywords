@@ -50,6 +50,14 @@ Use specific keywords to chat with Bing AI more effectively.
 `no_search`: don't search for the query.
 > I don't want to search for this ;no_search
 
+## O
+
+`only`: output results in a specific format.
+
+> output the result only code
+
+> output the result only emoji
+
 ## Q
 
 `quiz`: define a quiz.
