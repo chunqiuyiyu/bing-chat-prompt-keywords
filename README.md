@@ -46,11 +46,12 @@ Use specific keywords to chat with Bing AI more effectively.
 > tic-tac-toe ;let's_play
 
 ## N
-
 `no_search`: don't search for the query.
 > I don't want to search for this ;no_search
 
 ## O
+`outline`: generate an outline for a specific content.
+> I want to write an outline for this: text or url ;outline
 
 `only`: output results in a specific format.
 
@@ -58,18 +59,14 @@ Use specific keywords to chat with Bing AI more effectively.
 
 > output the result only emoji
 
+## P
+`photograph`: describe a beautiful photograph of image. can be used with `draw` keyword to get better image results.
+> dog ;photograph
+
 ## Q
 
 `quiz`: define a quiz.
 > What is the capital of France ;quiz
-
-## O
-`outline`: generate an outline for a specific content.
-> I want to write an outline for this: text or url ;outline
-
-## P
-`photograph`: describe a beautiful photograph of image. can be used with `draw` keyword to get better image results.
-> dog ;photograph
 
 ## S
 
