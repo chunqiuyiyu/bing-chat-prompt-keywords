@@ -73,6 +73,9 @@ Use specific keywords to chat with Bing AI more effectively.
 `similar_to`: find similar things.
 > apple ;similar_to
 
+`search_query`: a command that you can use to perform a web search on any topic you want. like `force_search`.
+> I want to search for this ;search_query
+
 ## T
 
 `translate`: translate a word or a sentence.
