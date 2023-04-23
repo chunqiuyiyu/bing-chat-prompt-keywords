@@ -3,7 +3,6 @@ Use specific keywords to chat with Bing AI more effectively.
 
 > {content} ;keyword1;keyword2;keyword3...etc
 
-
 ## A
 
 `act_as`: simulate some roles.
@@ -16,6 +15,9 @@ Use specific keywords to chat with Bing AI more effectively.
 
 `code`: generate code for a specific language.
 > hello world ;code-generator;python;comment
+
+`continue`: continue the conversation.
+> Your answer was truncated, the last text I saw was "blah blah". Continue your answer.
 
 ## D
 
