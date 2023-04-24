@@ -3,6 +3,8 @@ Use specific keywords to chat with Bing AI more effectively.
 
 > {content} ;keyword1;keyword2;keyword3...etc
 
+__You don't have to use keywords in the above format, just use them in any format you want and have fun!__
+
 ## A
 
 `act_as`: simulate some roles.
