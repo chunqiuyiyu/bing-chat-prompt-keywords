@@ -31,6 +31,9 @@ __You don't have to use keywords in the above format, just use them in any forma
 `emoji`: generate output in emoji format.
 > dog ;emoji
 
+`expert`: As an extension of the "Act as a ..." prompt you can tell Bing Chat in finer detail what you want that role to be. This is particularly useful for technical content.
+> I want you to act as an expert in Python programming with five years of experience ;expert
+
 ## F
 
 `force_search`: force search for the query.
