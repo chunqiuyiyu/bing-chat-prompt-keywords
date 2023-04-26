@@ -34,6 +34,9 @@ __You don't have to use keywords in the above format, just use them in any forma
 `expert`: As an extension of the "Act as a ..." prompt you can tell Bing Chat in finer detail what you want that role to be. This is particularly useful for technical content.
 > I want you to act as an expert in Python programming with five years of experience ;expert
 
+`explain`: Asking Bing Chat to explain your chosen topic to you as if you were a child.
+> Explain the concept of gravity to me as though I am six years old ;explain 
+
 ## F
 
 `force_search`: force search for the query.
