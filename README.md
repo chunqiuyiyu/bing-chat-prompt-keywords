@@ -86,6 +86,9 @@ __You don't have to use keywords in the above format, just use them in any forma
 `search_query`: a command that you can use to perform a web search on any topic you want. like `force_search`.
 > I want to search for this ;search_query
 
+`summarize`: This is particularly handy when using Bing Chat in the Edge Sidebar.
+> Summarize this article or webpage into a bullet point list ;summarize
+
 ## T
 
 `translate`: translate a word or a sentence.
