@@ -103,3 +103,8 @@ __You don't have to use keywords in the above format, just use them in any forma
 
 `vs`: compare two things.
 > apple orange ;vs
+
+## W
+
+`want`: If you're using Bing Chat to try and learn about a topic or help you create something, this can be a crucial addition to your prompt. Instead of just giving you what it thinks you want to know, tell Bing Chat to ask you questions to help it understand what you want. 
+> I want you to ask me questions about this ;want
