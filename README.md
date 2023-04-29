@@ -99,6 +99,9 @@ __You don't have to use keywords in the above format, just use them in any forma
 
 > with environment protection as the topic ;topic
 
+`table`: If you're researching something that could be presented in a table, ask Bing Chat to do that. Standard responses will just be a wall of text, so much like bullet points, a table is a much better way to present what it is you're looking for.
+> I want to create a table for this ;table
+
 ## V
 
 `vs`: compare two things.
