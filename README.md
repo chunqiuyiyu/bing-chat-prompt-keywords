@@ -70,8 +70,8 @@ __You don't have to use keywords in the above format, just use them in any forma
 > output the result only emoji
 
 ## P
-`photograph`: describe a beautiful photograph of image. can be used with `draw` keyword to get better image results.
-> dog ;photograph
+`photograph`: use this keyword with `draw` keyword to get better image results.
+> Describe a beautiful photograph of dog
 
 ## Q
 
