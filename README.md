@@ -26,7 +26,8 @@ __You don't have to use keywords in the above format, just use them in any forma
 `draw`: draw a picture.
 > fox ;draw;line-art
 
-`depicted`
+`depicted`: describe a picture.
+> What is depicted in this picture.
 
 ## E
 
